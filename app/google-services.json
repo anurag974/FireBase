@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579135586806",
+    "firebase_url": "https://anuragfirebasepro.firebaseio.com",
+    "project_id": "anuragfirebasepro",
+    "storage_bucket": "anuragfirebasepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579135586806:android:c38a4476a85626c5",
+        "android_client_info": {
+          "package_name": "com.example.anuraggupta.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579135586806-j2d74cnc692pquq46g406fg1bf7tasms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTbHuSZhRcuwZBXL4pFoxCI-6LZVFHms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
